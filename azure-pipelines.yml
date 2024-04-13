@@ -1,13 +1,9 @@
-# ASP.NET
-# Build and test ASP.NET projects.
-# Add steps that publish symbols, save build artifacts, deploy, and more:
-# https://docs.microsoft.com/azure/devops/pipelines/apps/aspnet/build-aspnet-4
-
 trigger:
 - main
 
+# Use a self-hosted agent pool "Quiz4"
 pool:
-  vmImage: 'windows-latest'
+  name: Quiz4
 
 variables:
   solution: '**/*.sln'
