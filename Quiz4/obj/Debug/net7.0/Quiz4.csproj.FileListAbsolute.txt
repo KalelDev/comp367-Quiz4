@@ -1,0 +1,7 @@
+/Users/kalel/Documents/School/Semester 6/COMP-367/comp367-Quiz4/Quiz4/obj/Debug/net7.0/Quiz4.csproj.AssemblyReference.cache
+/Users/kalel/Documents/School/Semester 6/COMP-367/comp367-Quiz4/Quiz4/obj/Debug/net7.0/Quiz4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kalel/Documents/School/Semester 6/COMP-367/comp367-Quiz4/Quiz4/obj/Debug/net7.0/Quiz4.AssemblyInfoInputs.cache
+/Users/kalel/Documents/School/Semester 6/COMP-367/comp367-Quiz4/Quiz4/obj/Debug/net7.0/Quiz4.AssemblyInfo.cs
+/Users/kalel/Documents/School/Semester 6/COMP-367/comp367-Quiz4/Quiz4/obj/Debug/net7.0/Quiz4.csproj.CoreCompileInputs.cache
+/Users/kalel/Documents/School/Semester 6/COMP-367/comp367-Quiz4/Quiz4/obj/Debug/net7.0/Quiz4.MvcApplicationPartsAssemblyInfo.cs
+/Users/kalel/Documents/School/Semester 6/COMP-367/comp367-Quiz4/Quiz4/obj/Debug/net7.0/Quiz4.MvcApplicationPartsAssemblyInfo.cache
